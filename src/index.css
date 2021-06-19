@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after{
+  padding: 0px;
+  margin: 0px;
+  text-transform: none;
+  color: black;
+  box-sizing: border-box;
+}
+html{
+  min-height: 100vh;
+}
+body{
+  background:linear-gradient(135deg, #766cff 0%,#88f1f7 100%);
+}
